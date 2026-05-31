@@ -97,4 +97,5 @@ Claude CodeとCodexを役割分担。日々の構築はClaude Code、数字・�
 
 skillを使ったhtml出力の一例
 
-<img width="1003" height="1276" alt="スクリーンショット 2026-05-31 9 59 54" src="https://github.com/user-attachments/assets/130b678a-f288-4ef5-9bb9-df2177aa51fa" />
+<img width="1003" height="1276" alt="スクリーンショット 2026-05-31 9 59 54" src="https://github.com/user-attachments/assets/dd7053c8-a768-4d47-890c-dd462e1b9515" />
+
